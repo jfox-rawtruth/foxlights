@@ -1,0 +1,4 @@
+baseURL = 'https://jfox-rawtruth.github.io/'
+languageCode = 'en-us'
+title = 'Fox Lights'
+theme = 'PaperMod'
