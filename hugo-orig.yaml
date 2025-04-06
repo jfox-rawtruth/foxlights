@@ -1,0 +1,8 @@
+baseURL: 'https://jfox-rawtruth.github.io/'
+languageCode: 'en-us'
+sectionPagesMenu: main
+title: 'Fox Lights'
+theme: 'zen'
+caches:
+  images:
+    dir: :cacheDir/images
